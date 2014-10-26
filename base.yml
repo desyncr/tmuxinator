@@ -25,11 +25,11 @@ windows:
         - ranger
         -
         - mutt
-   - other:
-       layout: main-vertical
-       panes:
-         - ncmpcpp
-   - monitor:
-       layout: main-vertical
-       panes:
-         - htop
+  - other:
+      layout: main-vertical
+      panes:
+        - ncmpcpp
+  - monitor:
+      layout: main-vertical
+      panes:
+        - htop
